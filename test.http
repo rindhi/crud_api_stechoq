@@ -1,0 +1,15 @@
+POST http://localhost:1800/data_employee
+
+###
+GET http://localhost:1800/data_employee
+
+###
+// GET http://localhost:1800/data_employee/123
+
+###
+PUT http://localhost:1800/data_employee/456
+
+###
+DELETE http://localhost:1800/data_employee/123
+
+
